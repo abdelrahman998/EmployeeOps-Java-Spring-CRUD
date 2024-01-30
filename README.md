@@ -1,6 +1,6 @@
 ### Employee CRUD Ops
 
-Developed a robust Java-based CRUD application utilizing Spring Boot MVC and Security to streamline employee management processes. The application leverages Spring MVC for efficient data handling and integrates Spring Security to ensure secure access to sensitive employee information.
+Developed a robust Java-based CRUD application utilizing Spring Boot MVC and Security to streamline employee management processes. The application leverages Spring MVC for efficient data handling and integrates.
 
 #### Key Achievements:
 
